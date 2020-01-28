@@ -1,6 +1,6 @@
-# raghavapp23
+# Handwritten-Pres-App
 
-A new Flutter project.
+A Flutter project dealing with the recognition of handwritten prescriptions.
 
 ## Getting Started
 
